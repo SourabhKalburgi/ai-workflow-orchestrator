@@ -1,0 +1,7 @@
+streamlit
+langchain
+requests
+beautifulsoup4
+transformers
+huggingface-hub
+python-dotenv
